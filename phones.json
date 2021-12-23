@@ -1,0 +1,34 @@
+{
+    "phones": [
+        {
+            "id": 0,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000",
+            "title": "iPhone 13 Pro Max 128 GB Grafite",
+            "price": "1 279,00 €"
+        },
+        {
+            "id": 1,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-silver-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652954000",
+            "title": "iPhone 13 Pro 128 GB Prateado",
+            "price": "1 179,00 €"
+        },
+        {
+            "id": 2,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-mini-blue-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1629842711000",
+            "title": "iPhone 13 mini 128 GB Azul",
+            "price": "829,00 €"
+        },
+        {
+            "id": 3,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1629907844000",
+            "title": "iPhone 13 128 GB Meia-noite",
+            "price": "929,00 €"
+        },
+        {
+            "id": 4,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-blue-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652954000",
+            "title": "iPhone 13 Pro 128 GB Azul Sierra",
+            "price": "879,00 €"
+        }
+    ]
+}
