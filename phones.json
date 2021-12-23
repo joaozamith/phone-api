@@ -29,6 +29,48 @@
             "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-blue-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652954000",
             "title": "iPhone 13 Pro 128 GB Azul Sierra",
             "price": "879,00 €"
+        },
+        {
+            "id": 5,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1629842709000",
+            "title": "iPhone 13 128 GB Rosa",
+            "price": "929,00 €"
+        },
+        {
+            "id": 6,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-blue-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652955000",
+            "title": "iPhone 13 Pro 128 GB Azul Sierra",
+            "price": "1 279,00 €"
+        },
+        {
+            "id": 7,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-gold-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000",
+            "title": "iPhone 13 Pro Max 128 GB Dourado",
+            "price": "1 279,00 €"
+        },
+        {
+            "id": 8,
+            "img": "https://med.csmobiles.com/247199-large_default/apple-iphone-12-pro-256gb-azul.jpg",
+            "title": "iPhone 12 Pro 256 GB Azul",
+            "price": "1 041,00 €"
+        },
+        {
+            "id": 9,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1617130317000",
+            "title": "iPhone 12 256 GB Roxo",
+            "price": "999,00 €"
+        },
+        {
+            "id": 10,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-mini-blue-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604343706000",
+            "title": "iPhone 12 mini 128 GB Azul",
+            "price": "759,00 €"
+        },
+        {
+            "id": 11,
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-green-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604343704000",
+            "title": "iPhone 12 256 GB Verde",
+            "price": "999,00 €"
         }
     ]
 }
